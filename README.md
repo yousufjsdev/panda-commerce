@@ -1,1 +1,1 @@
-# panda-commerce
+# ecommerce-assignment
